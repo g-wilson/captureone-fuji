@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<SL Engine="1300">
+	<E K="GradationCurve" V="0,0;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;0.0641399398446083,0.160784319043159;0.128279879689217,0.270588248968124;0.27988338470459,0.376470595598221;0.501457750797272,0.498039215803146;0.696793019771576,0.615686297416687;0.854227423667908,0.760784327983856;1,1" />
+	<E K="Name" V="xtrans4-DynamicRangePriorityStrong" />
+	<E K="StyleSource" V="Curve" />
+	<E K="UUID" V="94457A54-D01C-48E7-89BD-175306B2686E" />
+</SL>
