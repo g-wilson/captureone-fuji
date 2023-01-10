@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<SL Engine="1300">
+	<E K="GradationCurve" V="0,0;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;0.0699708461761475,0.113725490868092;0.145772591233253,0.211764708161354;0.230320706963539,0.282352954149246;0.358600586652756,0.376470595598221;0.50,0.50;0.67,0.67;1,1" />
+	<E K="Name" V="xtrans4-ShadowMinusTwo" />
+	<E K="StyleSource" V="Curve" />
+	<E K="UUID" V="17A7663B-5137-4BDE-8D50-6481B5AAE684" />
+</SL>
