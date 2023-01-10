@@ -21,7 +21,9 @@ The Dynamic Range Priority in X-Trans cameras works by applying a luminosity cur
 
 When shooting in RAW, the in-camera previews display with this adjustment however it is not reflected in editing applications.
 
-When shooting with Dynamic Range Priority in `Weak` or `Strong`, the Dynamic Range setting is forced to `Auto`.
+On my X-T30ii X-Trans 4 camera, the Dynamic Range Priority `Weak` setting is the equivalent of changing Shadow and Highlight tone adjustments both to -2.
+
+When shooting with Dynamic Range Priority in `Weak` or `Strong`, the Dynamic Range setting is forced to `Auto`, which can result in perceptually-underexposed RAW files when viewed in certain applications (see below).
 
 ### Dynamic Range DR200 / DR400 handling in RAW files
 
