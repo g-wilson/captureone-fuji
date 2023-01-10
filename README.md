@@ -5,9 +5,17 @@ Capture One presets for Fuji X-Trans cameras
 
 ### Curves
 
+#### Highlight -2 (X-Trans 4)
+
+This curve approximates the luminance adjustment made by my X-T30ii when exporting JPEGs with the Highlight Tone adjustment set to -2.
+
+#### Shadow -2 (X-Trans 4)
+
+This curve approximates the luminance adjustment made by my X-T30ii when exporting JPEGs with the Shadow Tone adjustment set to -2.
+
 #### Dynamic Range Priority: Weak (X-Trans 4)
 
-This curve emulates the luminance adjustment made by my X-T30ii when exporting JPEGs with Dynamic Range Priority set to `Weak`. Shadows are boosted nicely but overall contrast still remains.
+This curve emulates the luminance adjustment made by my X-T30ii when exporting JPEGs with Dynamic Range Priority set to `Weak`. Shadows are boosted nicely but overall contrast still remains. It the sum of the Highlight -2 and Shadow -2 adjustment.
 
 #### Dynamic Range Priority: Strong (X-Trans 4)
 
